@@ -8,7 +8,8 @@
 ![](https://img.shields.io/badge/VS_Code-blue "VS Code") 
 
 ![](https://img.shields.io/badge/-Arduino-darkgreen)
-![](https://img.shields.io/badge/-3D%20Print-yellow)
+![](https://img.shields.io/badge/-3D%20Modeling-blue)
+![](https://img.shields.io/badge/-3D%20Print-red)
 <!--
 **TomSG03/TomSG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
